@@ -23,6 +23,6 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link](https://www.linkedin.com/in/frankmobedi/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![GitHub Logo.](https://github.com/primer/brand/assets/19292210/0612e088-0394-421d-9266-2f6e1d12498e)
